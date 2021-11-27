@@ -1,0 +1,1 @@
+A short project to learn Java syntax and refresh basic data structure knowledge
